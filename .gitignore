@@ -1,0 +1,59 @@
+octocat/.gitignore
+Created 2 years ago
+  Star 725
+  Fork 249
+ 
+ Code
+ Revisions 1
+ Stars 725
+ Forks 249
+Embed URL
+
+<script src="https://gist.github.com/octocat/9257657.js"></script>
+
+SSH clone URL
+
+git@gist.github.com:9257657.git
+
+You can clone with  HTTPS, SSH, or Subversion. 
+ Clone in Desktop
+ Download ZIP
+Some common .gitignore configurations
+Raw  .gitignore
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
